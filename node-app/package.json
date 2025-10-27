@@ -1,0 +1,12 @@
+{
+  "name": "blue-green-sim-app",
+  "version": "1.0.0",
+  "description": "Node app for Blue/Green nginx failover task",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
